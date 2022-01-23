@@ -1,5 +1,5 @@
 .odd {
-	background: #F7A2D2;
+	background: #DBC3D5;
 	font-family: Verdana, Dejavu Sans, sans-serif;
 }
 #row2{
@@ -12,7 +12,9 @@
 }
 #row2 {
 }
-#row4 {
+#row4 {background: #86F7D2;
+	font-size: 24px;
+	font-weight: bold
 }
 .third {
 }
